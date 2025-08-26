@@ -171,5 +171,5 @@ Content-Type: application/json
 
 ### 🔗 Contacto
 - **GitHub**: [KevinFranG](https://github.com/KevinFranG)
-- **LinkedIn**: [kevin-a-francisco](https://www.linkedin.com/in/kevin-a-francico)
+- **LinkedIn**: [kevinfrang](https://www.linkedin.com/in/kevinfrang)
 - **Correo**: kevinfrancisco.dev18@gmail.com
